@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I am Wayner</h1>
 <h3 align="center">Software Developer</h3>
 
-- 💻 I’m working as a Fullstack Developer using **Nestjs and Angular**. **Typescript** is evereywhere.
+- 💻 I’m working as a Fullstack Developer using **Nestjs and Angular**. **Typescript** is everywhere.
 - ☕ I love **backend development** the most
 
 <h3 align="left">Connect with me:</h3>
