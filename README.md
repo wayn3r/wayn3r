@@ -1,9 +1,8 @@
 <h1 align="center">Hi there👋, I am Wayner</h1>
 <h3 align="center">Software Developer</h3>
 
-- 💻 I’m working as a Fullstack Developer using **PHP and React**
+- 💻 I’m working as a Fullstack Developer using **Nestjs and Angular**. **Typescript** is evereywher.
 - ☕ I love **backend development** the most
-- 🌱 I’m currently learning **Node.js and .NET**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
