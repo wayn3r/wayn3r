@@ -1,9 +1,7 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+> # < 👋🏽 Hello, World />
   
 
-### <div align="center">I'm Wayner, a full-time full-stack developer 👨‍💻 working remotely since 2022🚀</div>  
+### I'm Wayner, a full-time full-stack developer 👨‍💻 working remotely since 2022🚀
   
 
 - 🔭 I’m currently working with **[Nestjs](https://nestjs.com/) y [Angular](https://angular.io/)**  
