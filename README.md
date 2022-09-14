@@ -10,7 +10,7 @@
 - ☕ I love backend development the most  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use spaces over tabs   
   
 
 <br/>  
