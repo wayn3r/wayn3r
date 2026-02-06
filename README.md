@@ -1,7 +1,7 @@
 > # < 👋🏽 Hello, World />
   
 
-### I'm Wayner, a full-time full-stack developer 👨‍💻 working remotely since 2022🚀
+### I'm Wayner, a Software Engineer working since 2021 🚀
   
 
 - 🔭 I’m currently working with **[Nestjs](https://nestjs.com/) & [Angular](https://angular.io/)**  
